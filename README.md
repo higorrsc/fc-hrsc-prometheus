@@ -24,12 +24,14 @@ A stack é composta pelos seguintes serviços:
 ### Passos
 
 1. Clone este repositório:
+
    ```bash
-   git clone <url-do-repositorio>
-   cd <diretorio-do-repositorio>
+   git clone higorrsc/fc-hrsc-prometheus
+   cd fc-hrsc-prometheus
    ```
 
 2. Inicie todos os serviços com o Docker Compose:
+
    ```bash
    docker-compose up -d
    ```
